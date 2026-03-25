@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Qiwei Pan (潘琪伟) 👋
 
-<!--
-**Peter-awe/Peter-awe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Student at [Université de Montréal](https://www.umontreal.ca/) — Speech-Language Pathology (Research)
 
-Here are some ideas to get you started:
+🏥 Researcher at [COALab](https://github.com/Peter-awe/coalab-website), Centre de recherche du CHU Sainte-Justine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **Research:** Machine learning for children's speech recognition & cognitive-linguistic assessment
+
+#### What I'm working on
+
+- 🧠 Understanding why self-supervised speech models (WavLM) fail on children's speech
+- 🗣️ Building developmentally informed ASR that works for ages 3–12+
+- 🤖 [KiwiFARS](https://github.com/Peter-awe/KiwiFARS) — Fully autonomous 9-stage research pipeline on HPC
+- ✏️ [KiwiPen](https://kiwipennotes.com) — AI-powered note-taking with real-time transcription
+
+#### Tech Stack
+
+`PyTorch` `HuggingFace` `WavLM` `Whisper` `SLURM/HPC` `Next.js` `TypeScript` `Python`
+
+#### Publications
+
+12+ peer-reviewed articles spanning computational linguistics, translation studies, and speech science
+
+---
+
+*"Before AI can help children, it first has to understand them."*
