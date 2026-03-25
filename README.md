@@ -2,7 +2,7 @@
 
 🎓 PhD Student at [Université de Montréal](https://www.umontreal.ca/) — Speech-Language Pathology (Research)
 
-🏥 Researcher at [COALab](https://github.com/Peter-awe/coalab-website), Centre de recherche du CHU Sainte-Justine
+🏥 Researcher at [COALab](https://coalab.org/), Centre de recherche du CHU Sainte-Justine
 
 🔬 **Research:** Machine learning for children's speech recognition & cognitive-linguistic assessment
 
