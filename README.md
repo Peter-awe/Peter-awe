@@ -17,7 +17,7 @@
 #### Commercialization
 
 - 🧓 **PanSense Intelligence (潘盛智听科技)** — AI-powered early screening for elderly cognitive impairment through speech analysis. Founding in progress (2026).
-- 📚 **[PanSense Education (潘盛教育)]** — Online Language tutoring for K-12 and IELTS students. Est. 2018.
+- 📚 **PanSense Education (潘盛教育)** — Online Language tutoring for K-12 and IELTS students. Est. 2018.
 
 #### Tech Stack
 
