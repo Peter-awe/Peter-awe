@@ -11,7 +11,7 @@
 - 🧠 Understanding why self-supervised speech models (WavLM) fail on children's speech
 - 🗣️ Building developmentally informed ASR that works for ages 3–12+
 - 📺 [Youtube Channel: PanSenseLab](https://www.youtube.com/channel/UCCbDhYkt1AzydIhgvLwLLkg)
-- `📺 [YouTube: PanSense Lab](https://www.youtube.com/@PanSenseLab)`
+- 📺 [YouTube: PanSense Lab](https://www.youtube.com/@PanSenseLab)
 - 🤖 [KiwiFARS](https://github.com/Peter-awe/KiwiFARS) — Fully autonomous 9-stage research pipeline on HPC (same paradigm as [Nature 2026 "The AI Scientist"](https://www.nature.com/articles/s41586-026-10265-5))
 - ✏️ [KiwiPen](https://kiwipennotes.com) — AI-powered note-taking with real-time transcription
 
