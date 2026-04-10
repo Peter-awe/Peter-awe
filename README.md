@@ -15,14 +15,6 @@
 - 🤖 [KiwiFARS](https://github.com/Peter-awe/KiwiFARS) — Fully autonomous 9-stage research pipeline on HPC (same paradigm as [Nature 2026 "The AI Scientist"](https://www.nature.com/articles/s41586-026-10265-5))
 - ✏️ [KiwiPen](https://kiwipennotes.com) — AI-powered note-taking with real-time transcription
 
-#### Commercialization — PanSense Intelligence (潘盛智听科技)
-
-Non-invasive Speech-Cognitive Interface Technology (非侵入式语音-认知接口技术)
-
-- 🧒 **SpeechSense Kids** — AI-powered developmental speech assessment for children (ages 2–12)
-- 🧓 **SpeechSense Elder** — Early cognitive decline screening through spontaneous speech analysis, with multi-dialect support for underserved elderly populations
-- 📚 **PanSheng Education (潘盛教育)** — Online language tutoring for K-12 and IELTS. Est. 2018.
-
 #### Tech Stack
 
 `PyTorch` `HuggingFace` `WavLM` `Whisper` `SLURM/HPC` `Next.js` `TypeScript` `Python`
