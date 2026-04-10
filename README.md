@@ -25,4 +25,4 @@
 
 ---
 
-*"Before AI can help people, it first has to understand how they speak — at every age."*
+*"Before AI can help people, it first has to understand how they speak at every age."*
